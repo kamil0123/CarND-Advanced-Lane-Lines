@@ -1,3 +1,10 @@
+This is my submission of the Advanced Lane Lines project of Udacity "Self-Driving Car Engineer" Nanodegree program.
+
+My implementation of the project is in file project.ipynb.
+Write up of my implementation is in file writeup.ipynb.
+
+Film showing my results: https://youtu.be/eGYl6lllDMw
+
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
